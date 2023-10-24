@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Sr7buqn+G1Po7zt7O78iUm1TfruqwunQ4cTJ19nz0pPh87owIMdlx0G6ebMEFGJ/st8kxFSeYMpZyG2EDJYKw==",
+  "success": true,
+  "projectFilePath": "/home/vanthao/RiderProjects/DemoSecurity/Server/Server.csproj",
+  "expectedPackageFiles": [
+    "/home/vanthao/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

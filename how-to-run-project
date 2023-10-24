@@ -1,0 +1,5 @@
+1 Enable Port:1234 in your device
+2 Generate key pem(privatekey, publickey): https://keytool.online/ (highly recommend in there)
+3 Using C# language (recommend visual studio)
+4 Paste privateKey in server project and publicKey in client project
+5 Run the project server before and then run client project.
